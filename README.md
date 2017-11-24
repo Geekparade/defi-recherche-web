@@ -5,9 +5,13 @@ Par Robert Taylor, en 1972, pour le département américain de la Défense dans 
 dans différent laboratoires informatiques situés aux Etats-Unis, le Royaume-Uni et la France.
 
 Source: https://www.service-public.fr/particuliers/actualites/007052
+	https://en.wikipedia.org/wiki/History_of_the_Internet
 
 
 * Quelle est la différence entre le Web et Internet ?
+Internet est un réseau par lequel transitent des données, le web correspond à une des applications utilisant ce réseau.
+
+Source: https://www.service-public.fr/particuliers/actualites/007052
 
 
 
