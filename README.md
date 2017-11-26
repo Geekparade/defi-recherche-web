@@ -57,7 +57,10 @@ Source: https://www.biography.com/people/grace-hopper-21406809
 
 Source: https://fr.wikipedia.org/wiki/Qwant
 
-* Qui est Steve Wozniak ?
+* Qui est Steve Wozniak ? Stephen Gary " Steve " Wozniak ( / w ɒ z n i æ k / , né Stephan Gary Wozniak , le 11 Août, 1950), [1] : 18 [9] aussi surnommé " Le Woz ", est un inventeur américain, électronique Ingénieur , programmeur , philanthrope et entrepreneur technologique qui a co-fondé Apple Inc.
+
+Source: https://en.wikipedia.org/wiki/Steve_Wozniak
+
 * D'où vient l'expression "bug informatique" ?
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 * Quels sont les prochains rendez-vous tech de Toulouse ?
