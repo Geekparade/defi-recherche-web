@@ -53,7 +53,10 @@ Le programmeur informatique Grace Hopper a aidé à développer un compilateur q
 
 Source: https://www.biography.com/people/grace-hopper-21406809
 
-* Qu'est-ce que Qwant ?
+* Qu'est-ce que Qwant ? Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+
+Source: https://fr.wikipedia.org/wiki/Qwant
+
 * Qui est Steve Wozniak ?
 * D'où vient l'expression "bug informatique" ?
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
