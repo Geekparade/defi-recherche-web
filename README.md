@@ -61,7 +61,10 @@ Source: https://fr.wikipedia.org/wiki/Qwant
 
 Source: https://en.wikipedia.org/wiki/Steve_Wozniak
 
-* D'où vient l'expression "bug informatique" ?
+* D'où vient l'expression "bug informatique" ? C'est Grace Hopper, en 1945, qui travaillé sur un ancêtre de l'ordinateur(les ordinateurs remplissaient des pièces entières à l'époque)qui produisait beaucoup de chaleur. Du coup, cela attirait divers insectes (bug en anglais), dont notammant un papillon qui créa un court-circuit et fit planter l'ordinateur. Ce fut le premier "bug" informatique.
+P.S : "grasshoper" veut dire cricket en anglais, quelle ironie.
+
+Source: https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 * Quels sont les prochains rendez-vous tech de Toulouse ?
 * Qui est Aaron Swartz ?
